@@ -1,0 +1,1266 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.28)  26 NOV 2020 10:22
+entering extended mode
+**./articol.tex
+(articol.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(D:\LaTex\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(D:\LaTex\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (D:\LaTex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(D:\LaTex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:\LaTex\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (D:\LaTex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\LaTex\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(D:\LaTex\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(D:\LaTex\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(D:\LaTex\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(D:\LaTex\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(D:\LaTex\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(D:\LaTex\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(D:\LaTex\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(D:\LaTex\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(D:\LaTex\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(D:\LaTex\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(D:\LaTex\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(D:\LaTex\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(D:\LaTex\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count183
+\Hy@pagecounter=\count184
+
+(D:\LaTex\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(D:\LaTex\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(D:\LaTex\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count185
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count186
+ (D:\LaTex\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen142
+
+(D:\LaTex\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(D:\LaTex\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count187
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(D:\LaTex\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count188
+\c@Item=\count189
+\c@Hfootnote=\count190
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(D:\LaTex\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(D:\LaTex\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count191
+\c@bookmark@seq@number=\count192
+
+(D:\LaTex\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(D:\LaTex\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(D:\LaTex\tex/latex/pgf/frontendlayer\tikz.sty
+(D:\LaTex\tex/latex/pgf/basiclayer\pgf.sty
+(D:\LaTex\tex/latex/pgf/utilities\pgfrcs.sty
+(D:\LaTex\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen145
+\pgfutil@tempdimb=\dimen146
+
+(D:\LaTex\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(D:\LaTex\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box47
+)
+(D:\LaTex\tex/generic/pgf/utilities\pgfrcs.code.tex
+(D:\LaTex\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/10/01 v3.1.6a (3.1.6a)
+))
+Package: pgf 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/latex/pgf/basiclayer\pgfcore.sty
+(D:\LaTex\tex/latex/pgf/systemlayer\pgfsys.sty
+(D:\LaTex\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(D:\LaTex\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen147
+\pgf@y=\dimen148
+\pgf@xa=\dimen149
+\pgf@ya=\dimen150
+\pgf@xb=\dimen151
+\pgf@yb=\dimen152
+\pgf@xc=\dimen153
+\pgf@yc=\dimen154
+\pgf@xd=\dimen155
+\pgf@yd=\dimen156
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count193
+\c@pgf@countb=\count194
+\c@pgf@countc=\count195
+\c@pgf@countd=\count196
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count197
+
+(D:\LaTex\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2020/10/01 v3.1.6a (3.1.6a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(D:\LaTex\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/10/01 v3.1.6a (3.1.6a)
+)))
+(D:\LaTex\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfsyssoftpath@smallbuffer@items=\count198
+\pgfsyssoftpath@bigbuffer@items=\count199
+)
+(D:\LaTex\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
+(D:\LaTex\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(D:\LaTex\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/generic/pgf/math\pgfmath.code.tex
+(D:\LaTex\tex/generic/pgf/math\pgfmathcalc.code.tex
+(D:\LaTex\tex/generic/pgf/math\pgfmathutil.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen157
+\pgfmath@count=\count266
+\pgfmath@box=\box48
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.code.tex
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(D:\LaTex\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
+(D:\LaTex\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count267
+))
+(D:\LaTex\tex/generic/pgf/math\pgfint.code.tex)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@picminx=\dimen158
+\pgf@picmaxx=\dimen159
+\pgf@picminy=\dimen160
+\pgf@picmaxy=\dimen161
+\pgf@pathminx=\dimen162
+\pgf@pathmaxx=\dimen163
+\pgf@pathminy=\dimen164
+\pgf@pathmaxy=\dimen165
+\pgf@xx=\dimen166
+\pgf@xy=\dimen167
+\pgf@yx=\dimen168
+\pgf@yy=\dimen169
+\pgf@zx=\dimen170
+\pgf@zy=\dimen171
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@path@lastx=\dimen172
+\pgf@path@lasty=\dimen173
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@shorten@end@additional=\dimen174
+\pgf@shorten@start@additional=\dimen175
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfpic=\box49
+\pgf@hbox=\box50
+\pgf@layerbox@main=\box51
+\pgf@picture@serial@count=\count268
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgflinewidth=\dimen176
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@pt@x=\dimen177
+\pgf@pt@y=\dimen178
+\pgf@pt@temp=\dimen179
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfarrowsep=\dimen180
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@max=\dimen181
+\pgf@sys@shading@range@num=\count269
+\pgf@shadingcount=\count270
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfexternal@startupbox=\box52
+))
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+(D:\LaTex\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfnodeparttextbox=\box53
+)
+(D:\LaTex\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+(D:\LaTex\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@nodesepstart=\dimen182
+\pgf@nodesepend=\dimen183
+)
+(D:\LaTex\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/10/01 v3.1.6a (3.1.6a)
+))
+(D:\LaTex\tex/latex/pgf/utilities\pgffor.sty
+(D:\LaTex\tex/latex/pgf/utilities\pgfkeys.sty
+(D:\LaTex\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(D:\LaTex\tex/latex/pgf/math\pgfmath.sty
+(D:\LaTex\tex/generic/pgf/math\pgfmath.code.tex))
+(D:\LaTex\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen184
+\pgffor@skip=\dimen185
+\pgffor@stack=\toks26
+\pgffor@toks=\toks27
+))
+(D:\LaTex\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2020/10/01 v3.1.6a (3.1.6a)
+
+(D:\LaTex\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@plot@mark@count=\count271
+\pgfplotmarksize=\dimen186
+)
+\tikz@lastx=\dimen187
+\tikz@lasty=\dimen188
+\tikz@lastxsaved=\dimen189
+\tikz@lastysaved=\dimen190
+\tikz@lastmovetox=\dimen191
+\tikz@lastmovetoy=\dimen192
+\tikzleveldistance=\dimen193
+\tikzsiblingdistance=\dimen194
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count272
+\tikznumberofchildren=\count273
+\tikznumberofcurrentchild=\count274
+\tikz@fig@count=\count275
+
+(D:\LaTex\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfmatrixcurrentrow=\count276
+\pgfmatrixcurrentcolumn=\count277
+\pgf@matrix@numberofcolumns=\count278
+)
+\tikz@expandcount=\count279
+
+(D:\LaTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.
+tex
+File: tikzlibrarytopaths.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))) (D:\LaTex\tex/latex/pgfplots\pgfplots.sty
+(D:\LaTex\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+(D:\LaTex\tex/generic/pgfplots\pgfplots.code.tex
+(D:\LaTex\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks28
+\t@pgfplots@tokb=\toks29
+\t@pgfplots@tokc=\toks30
+\pgfplots@tmpa=\dimen195
+\c@pgfplots@coordindex=\count280
+\c@pgfplots@scanlineindex=\count281
+
+(D:\LaTex\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(D:\LaTex\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(D:\LaTex\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.te
+x (D:\LaTex\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
+(D:\LaTex\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(D:\LaTex\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
+(D:\LaTex\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex)
+(D:\LaTex\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count282
+)
+(D:\LaTex\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
+(D:\LaTex\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count283
+\t@pgfplotstable@a=\toks31
+)
+(D:\LaTex\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
+(D:\LaTex\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+(D:\LaTex\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
+(D:\LaTex\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(D:\LaTex\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count284
+
+(D:\LaTex\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex
+.def))) (D:\LaTex\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(D:\LaTex\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(D:\LaTex\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(D:\LaTex\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(D:\LaTex\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(D:\LaTex\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(D:\LaTex\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(D:\LaTex\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(D:\LaTex\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(D:\LaTex\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(D:\LaTex\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(D:\LaTex\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(D:\LaTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.c
+ode.tex (D:\LaTex\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen196
+\pgfdecoratedremainingdistance=\dimen197
+\pgfdecoratedinputsegmentcompleteddistance=\dimen198
+\pgfdecoratedinputsegmentremainingdistance=\dimen199
+\pgf@decorate@distancetomove=\dimen256
+\pgf@decorate@repeatstate=\count285
+\pgfdecorationsegmentamplitude=\dimen257
+\pgfdecorationsegmentlength=\dimen258
+)
+\tikz@lib@dec@box=\box58
+)
+(D:\LaTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.p
+athmorphing.code.tex
+(D:\LaTex\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorph
+ing.code.tex))
+(D:\LaTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.p
+athreplacing.code.tex
+(D:\LaTex\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrepla
+cing.code.tex))
+\pgfplots@numplots=\count286
+\pgfplots@xmin@reg=\dimen259
+\pgfplots@xmax@reg=\dimen260
+\pgfplots@ymin@reg=\dimen261
+\pgfplots@ymax@reg=\dimen262
+\pgfplots@zmin@reg=\dimen263
+\pgfplots@zmax@reg=\dimen264
+)
+(D:\LaTex\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.cod
+e.tex
+File: tikzlibraryplotmarks.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+ (D:\LaTex\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+(D:\LaTex\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count287
+\mult@box=\box59
+\multicol@leftmargin=\dimen265
+\c@unbalance=\count288
+\c@collectmore=\count289
+\doublecol@number=\count290
+\multicoltolerance=\count291
+\multicolpretolerance=\count292
+\full@width=\dimen266
+\page@free=\dimen267
+\premulticols=\dimen268
+\postmulticols=\dimen269
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box60
+\last@line=\box61
+\maxbalancingoverflow=\dimen270
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@gfirstbox=\box64
+\mult@firstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\c@minrows=\count293
+\c@columnbadness=\count294
+\c@finalcolumnbadness=\count295
+\last@try=\dimen271
+\multicolovershoot=\dimen272
+\multicolundershoot=\dimen273
+\mult@nat@firstbox=\box103
+\colbreak@box=\box104
+\mc@col@check@num=\count296
+)
+(D:\LaTex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count297
+\l__pdf_internal_box=\box105
+) (articol.aux)
+\openout1 = `articol.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(D:\LaTex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count298
+\scratchdimen=\dimen274
+\scratchbox=\box106
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen275
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks33
+) (D:\LaTex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package hyperref Info: Link coloring OFF on input line 13.
+
+(D:\LaTex\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(D:\LaTex\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(D:\LaTex\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count304
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+ (articol.out)
+(articol.out)
+\@outlinefile=\write4
+\openout4 = `articol.out'.
+
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 13.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
+[1
+
+{C:/Users/vlad/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<2a.png, id=68, 374.14781pt x 375.65344pt>
+File: 2a.png Graphic file (type png)
+<use 2a.png>
+Package pdftex.def Info: 2a.png  used on input line 52.
+(pdftex.def)             Requested size: 137.9979pt x 138.55396pt.
+<2b.png, id=70, 374.14781pt x 375.65344pt>
+File: 2b.png Graphic file (type png)
+<use 2b.png>
+Package pdftex.def Info: 2b.png  used on input line 53.
+(pdftex.def)             Requested size: 137.9979pt x 138.55396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+[][]
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textcommabelow' on input line 57.
+
+[2 <./2a.png> <./2b.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+<3a.png, id=80, 701.62125pt x 240.14719pt>
+File: 3a.png Graphic file (type png)
+<use 3a.png>
+Package pdftex.def Info: 3a.png  used on input line 103.
+(pdftex.def)             Requested size: 310.4979pt x 106.27702pt.
+<3b.png, id=81, 634.62094pt x 215.30438pt>
+File: 3b.png Graphic file (type png)
+<use 3b.png>
+Package pdftex.def Info: 3b.png  used on input line 104.
+(pdftex.def)             Requested size: 310.4979pt x 105.34236pt.
+
+Overfull \hbox (26.52797pt too wide) in paragraph at lines 101--105
+\OT1/cmr/m/n/10 con-struc-torul fiecarei clase sunt ini[]ializa[]i urmatorii 
+mem-bri: \OT1/cmtt/m/n/10 dimension\OT1/cmr/m/n/10 (dimensiunea
+ []
+
+
+Overfull \hbox (4.30545pt too wide) in paragraph at lines 101--105
+\OT1/cmr/m/n/10 func[]iei), \OT1/cmtt/m/n/10 limits\OT1/cmr/m/n/10 (lista ce co
+n-tine capetele in-ter-val-u-lui func[]iei), \OT1/cmtt/m/n/10 function\OT1/cmr/
+m/n/10 (func[]ia
+ []
+
+
+Overfull \hbox (12.02957pt too wide) in paragraph at lines 101--105
+\OT1/cmr/m/n/10 de min-i-mizat), \OT1/cmtt/m/n/10 n\OT1/cmr/m/n/10 (numarul de
+ itera[]ii), \OT1/cmtt/m/n/10 precision\OT1/cmr/m/n/10 (precizia), \OT1/cmtt/m/
+n/10 bits[]number\OT1/cmr/m/n/10 (lungimea
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--105
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+<3c.png, id=90, 607.51968pt x 107.65219pt>
+File: 3c.png Graphic file (type png)
+<use 3c.png>
+Package pdftex.def Info: 3c.png  used on input line 110.
+(pdftex.def)             Requested size: 345.0pt x 61.13405pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+[4 <./3a.png> <./3b.png>]
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\u' on input line 112.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textcommabelow' on input line 112.
+
+<3f.png, id=101, 523.20468pt x 175.40532pt>
+File: 3f.png Graphic file (type png)
+<use 3f.png>
+Package pdftex.def Info: 3f.png  used on input line 114.
+(pdftex.def)             Requested size: 345.0pt x 115.66347pt.
+<3g.png, id=102, 624.08156pt x 234.1247pt>
+File: 3g.png Graphic file (type png)
+<use 3g.png>
+Package pdftex.def Info: 3g.png  used on input line 116.
+(pdftex.def)             Requested size: 345.0pt x 129.42987pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--117
+
+ []
+
+<3d.png, id=103, 606.76688pt x 250.68657pt>
+File: 3d.png Graphic file (type png)
+<use 3d.png>
+Package pdftex.def Info: 3d.png  used on input line 119.
+(pdftex.def)             Requested size: 345.0pt x 142.53708pt.
+<3e.png, id=104, 606.76688pt x 317.68687pt>
+File: 3e.png Graphic file (type png)
+<use 3e.png>
+Package pdftex.def Info: 3e.png  used on input line 120.
+(pdftex.def)             Requested size: 345.0pt x 180.63257pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--122
+
+ []
+
+[5 <./3c.png> <./3f.png> <./3g.png>]
+<3h.png, id=112, 538.26094pt x 64.74188pt>
+File: 3h.png Graphic file (type png)
+<use 3h.png>
+Package pdftex.def Info: 3h.png  used on input line 124.
+(pdftex.def)             Requested size: 345.0pt x 41.49689pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\textcommabelow' on input line 126.
+
+<3i.png, id=113, 427.5975pt x 423.83344pt>
+File: 3i.png Graphic file (type png)
+<use 3i.png>
+Package pdftex.def Info: 3i.png  used on input line 129.
+(pdftex.def)             Requested size: 345.0pt x 341.96448pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--130
+
+ []
+
+[6 <./3d.png> <./3e.png> <./3h.png>]
+<3j.png, id=124, 701.62125pt x 347.79938pt>
+File: 3j.png Graphic file (type png)
+<use 3j.png>
+Package pdftex.def Info: 3j.png  used on input line 133.
+(pdftex.def)             Requested size: 345.0pt x 171.02287pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--134
+
+ []
+
+[7 <./3i.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--142
+
+ []
+
+[8 <./3j.png>]
+<dejong.png, id=139, 359.84438pt x 270.25969pt>
+File: dejong.png Graphic file (type png)
+<use dejong.png>
+Package pdftex.def Info: dejong.png  used on input line 148.
+(pdftex.def)             Requested size: 241.49895pt x 181.38232pt.
+<4a.png, id=140, 355.3275pt x 103.88812pt>
+File: 4a.png Graphic file (type png)
+<use 4a.png>
+Package pdftex.def Info: 4a.png  used on input line 150.
+(pdftex.def)             Requested size: 241.49895pt x 70.6097pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--160
+
+ []
+
+[9 <./dejong.png> <./4a.png>]
+<schwefel.png, id=148, 312.41719pt x 268.00125pt>
+File: schwefel.png Graphic file (type png)
+<use schwefel.png>
+Package pdftex.def Info: schwefel.png  used on input line 166.
+(pdftex.def)             Requested size: 241.49895pt x 207.17128pt.
+<4b.png, id=149, 432.11438pt x 123.46124pt>
+File: 4b.png Graphic file (type png)
+<use 4b.png>
+Package pdftex.def Info: 4b.png  used on input line 168.
+(pdftex.def)             Requested size: 241.49895pt x 69.00029pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Overfull \hbox (135.2788pt too wide) in paragraph at lines 166--178
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--178
+
+ []
+
+[10 <./schwefel.png> <./4b.png>]
+<rastrigin.png, id=156, 290.58563pt x 242.40562pt>
+File: rastrigin.png Graphic file (type png)
+<use rastrigin.png>
+Package pdftex.def Info: rastrigin.png  used on input line 185.
+(pdftex.def)             Requested size: 241.49895pt x 201.45921pt.
+<4c.png, id=157, 472.01344pt x 134.75343pt>
+File: 4c.png Graphic file (type png)
+<use 4c.png>
+Package pdftex.def Info: 4c.png  used on input line 187.
+(pdftex.def)             Requested size: 241.49895pt x 68.9454pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Overfull \hbox (50.27858pt too wide) in paragraph at lines 185--197
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--197
+
+ []
+
+[11 <./rastrigin.png> <./4c.png>]
+<michalewicz.jpg, id=164, 389.95688pt x 280.04625pt>
+File: michalewicz.jpg Graphic file (type jpg)
+<use michalewicz.jpg>
+Package pdftex.def Info: michalewicz.jpg  used on input line 203.
+(pdftex.def)             Requested size: 241.49895pt x 173.4303pt.
+<4d.png, id=165, 513.41812pt x 179.92218pt>
+File: 4d.png Graphic file (type png)
+<use 4d.png>
+Package pdftex.def Info: 4d.png  used on input line 205.
+(pdftex.def)             Requested size: 241.49895pt x 84.63206pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Overfull \hbox (60.27856pt too wide) in paragraph at lines 203--215
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--215
+
+ []
+
+<4e.png, id=166, 962.09438pt x 217.5628pt>
+File: 4e.png Graphic file (type png)
+<use 4e.png>
+Package pdftex.def Info: 4e.png  used on input line 218.
+(pdftex.def)             Requested size: 345.0pt x 78.01712pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+
+ []
+
+[12 <./michalewicz.jpg> <./4d.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+
+ []
+
+<metachart.png, id=173, 1204.5pt x 803.0pt>
+File: metachart.png Graphic file (type png)
+<use metachart.png>
+Package pdftex.def Info: metachart.png  used on input line 229.
+(pdftex.def)             Requested size: 148.34747pt x 98.89217pt.
+<metachart1.png, id=174, 1204.5pt x 803.0pt>
+File: metachart1.png Graphic file (type png)
+<use metachart1.png>
+Package pdftex.def Info: metachart1.png  used on input line 230.
+(pdftex.def)             Requested size: 148.34747pt x 98.89217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
+[][]
+ []
+
+<metachart2.png, id=175, 1204.5pt x 803.0pt>
+File: metachart2.png Graphic file (type png)
+<use metachart2.png>
+Package pdftex.def Info: metachart2.png  used on input line 233.
+(pdftex.def)             Requested size: 148.34747pt x 98.89217pt.
+<metachart3.png, id=176, 1204.5pt x 803.0pt>
+File: metachart3.png Graphic file (type png)
+<use metachart3.png>
+Package pdftex.def Info: metachart3.png  used on input line 234.
+(pdftex.def)             Requested size: 148.34747pt x 98.89217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
+[][]
+ []
+
+<timeplot.png, id=177, 469.00218pt x 316.93407pt>
+File: timeplot.png Graphic file (type png)
+<use timeplot.png>
+Package pdftex.def Info: timeplot.png  used on input line 238.
+(pdftex.def)             Requested size: 207.0021pt x 139.88182pt.
+[13 <./4e.png> <./metachart.png> <./metachart1.png> <./metachart2.png> <./metac
+hart3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 245--250
+\OT1/cmr/m/n/10 Simulated An-neal-ing. []$\OT1/cmtt/m/n/10 https : / / en . wik
+ipedia . org / wiki / Simulated _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--259
+\OT1/cmr/m/n/10 Sphere func-tion. []$\OT1/cmtt/m/n/10 http : / / benchmarkfcns 
+. xyz / benchmarkfcns /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--259
+\OT1/cmr/m/n/10 Schwefel func-tion. []$\OT1/cmtt/m/n/10 http : / / benchmarkfcn
+s . xyz / benchmarkfcns /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--259
+\OT1/cmr/m/n/10 Rastrigin func-tion. []$\OT1/cmtt/m/n/10 http : / / benchmarkfc
+ns . xyz / benchmarkfcns /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--263
+\OT1/cmr/m/n/10 Michalewicz func-tion. []$\OT1/cmtt/m/n/10 https : / / www . re
+searchgate . net / figure /
+ []
+
+[14 <./timeplot.png>] (articol.aux)
+Package rerunfilecheck Info: File `articol.out' has not changed.
+(rerunfilecheck)             Checksum: 92974C8CC2121C4CFC6C79402369E595;702.
+ ) 
+Here is how much of TeX's memory you used:
+ 26183 strings out of 480257
+ 652521 string characters out of 2898324
+ 1067515 words of memory out of 3000000
+ 42250 multiletter control sequences out of 15000+200000
+ 541133 words of font info for 49 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 77i,12n,105p,727b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/LaTex/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmbx6.pfb><
+D:/LaTex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LaTex/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/
+LaTex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/LaTex/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/LaTex
+/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/LaTex/fonts/type1/public/amsfonts
+/cm/cmr5.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/LaTex/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cm
+sy5.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/LaTex/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmti7.
+pfb><D:/LaTex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on articol.pdf (14 pages, 990796 bytes).
+PDF statistics:
+ 290 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+
