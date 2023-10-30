@@ -3,7 +3,8 @@ from simulated_annealing import SimulatedAnnealing
 from functions import *
 import time
 
-
+# In case the user did not specified as parameters to executable
+# Read the info in real time from him
 def get_input_data():
     algorithm = input("Enter algorithm(HC or SA): ")
 
@@ -14,9 +15,9 @@ def get_input_data():
     mode = None
 
     if algorithm == "HC":
-        mode = input("Enter mode(first or best): ")
+        mode = input("Enter mode(first | best | worst): ")
 
-        if mode != "first" and mode != "best":
+        if mode != "first" and mode != "best" and mode != "worst":
             print("Error..enter a known mode")
             exit(0)
 
@@ -51,7 +52,7 @@ def write_to_file(file_name, content):
     f.write("\n")
     f.close()
 
-
+# execute the algorithms 
 def execute(thread_number, dimension, interval, function, mode=None, algorithm="HC"):
     results_file_name = f'{algorithm}_{dimension}_{function.__name__}'
     directory_name = 'results'
@@ -63,18 +64,20 @@ def execute(thread_number, dimension, interval, function, mode=None, algorithm="
         print("Enter mode")
         exit(0)
     elif algorithm == "HC" and mode is not None:
-        HC = HillClimbing(dimension, interval, mode,
-                          function, n=200, precision=4)
+        HC = HillClimbing(dimension, interval, mode,function, n=200, precision=4)
 
         start_time = time.time()
         minima = HC.HC()
-        write_to_file(directory_name + '/' + results_file_name,
-                      f'{thread_number}. {format(minima, ".4f")} ---- {format(time.time() - start_time, ".2f")}')
+        print(minima)
+
+        # format saved "thread number | value | delta time"
+        write_to_file(directory_name + '/' + results_file_name,f'{thread_number}. {format(minima, ".4f")} ---- {format(time.time() - start_time, ".2f")}')
     elif algorithm == "SA":
-        SA = SimulatedAnnealing(dimension, interval,
-                                function, n=1000, precision=4)
+        SA = SimulatedAnnealing(dimension, interval,function, n=1000, precision=4)
+
         start_time = time.time()
         minima = SA.SA()
+        print(minima)
 
-        write_to_file(directory_name + '/' + results_file_name,
-                      f'{thread_number}. {format(minima, ".4f")} ---- {format(time.time() - start_time, ".2f")}')
+        # format saved "thread number | value | delta time"
+        write_to_file(directory_name + '/' + results_file_name, f'{thread_number}. {format(minima, ".4f")} ---- {format(time.time() - start_time, ".2f")}')

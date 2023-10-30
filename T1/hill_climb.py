@@ -74,6 +74,23 @@ class HillClimbing:
                 return bitstring
             else:
                 return swap_bit(bitstring, best_position)
+            
+        elif self.mode == 'worst':
+            worst_position = -1
+            worst_score = initial_score
+
+            for i in range(0, bitstring_length):
+                bitstring_copy = swap_bit(bitstring, i)
+                score = self.evaluate(bitstring_copy)
+
+                if score < worst_score:
+                    worst_position = i
+                    worst_score = score
+
+            if worst_position == -1:
+                return bitstring
+            else:
+                return swap_bit(bitstring, worst_position)
 
     def search_minima(self):
         candidate = self.generate_candidate()
@@ -92,6 +109,7 @@ class HillClimbing:
 
         for _ in range(0, self.n):
             minima = self.search_minima()
+            # print("Minima is " + str(minima))
 
             if best > minima:
                 best = minima

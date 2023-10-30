@@ -1,5 +1,6 @@
 import numpy as np
 
+# File with all 4 functions to be analyzed
 
 def de_jongs(parameters):
     np_parameters = np.array(parameters)

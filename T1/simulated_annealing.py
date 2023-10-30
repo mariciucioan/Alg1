@@ -56,6 +56,7 @@ class SimulatedAnnealing:
             for i in range(0, self.n):
                 new_candidate = mutation(candidate)
                 score = self.evaluate(new_candidate) - self.evaluate(candidate)
+                # print("Score is " + str(score))
 
                 if score < 0:
                     candidate = new_candidate
