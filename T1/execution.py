@@ -1,5 +1,6 @@
 import time
 
+from computation_time import precision
 from hill_climb import HillClimbing
 from simulated_annealing import SimulatedAnnealing
 from utils import write_to_file
@@ -17,4 +18,5 @@ def execute_algorithm(algorithm, mode, function, dimension, thread_number, inter
     elif algorithm == "SA":
         minima = SimulatedAnnealing(dimension, interval, function, n=1000, precision=5).solve()
 
-    write_to_file(results_file, f'{thread_number}. {minima:.4f} ---- {time.perf_counter() - start_time:.2f}')
+    formated_minima = f"{minima:.{precision}f}"
+    write_to_file(results_file, f'{thread_number}. {formated_minima} ---- {time.perf_counter() - start_time:.2f}')
