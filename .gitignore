@@ -1,6 +1,7 @@
 /T1/.idea/
 /T1/results/
 /T1/__pycache__/
+.idea/
 __pycache__/
 *.py[cod]
 *$py.class
