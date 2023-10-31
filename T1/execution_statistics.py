@@ -34,3 +34,12 @@ def statistics(path):
     mean_execution_time = mean(time)
 
     return mean_results, std, mean_execution_time
+
+
+if __name__ == '__main__':
+    path = 'results/HC_best_5_de_jongs'
+
+    f = open('results/statistics.csv', 'a')
+    f.write(str(statistics(path)))
+    f.write('\n')
+    f.close()
