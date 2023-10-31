@@ -6,7 +6,7 @@ from utils import write_to_file
 
 
 def execute_algorithm(algorithm, mode, function, dimension, thread_number, interval):
-    results_file_name = f'{algorithm}{"_" + mode if algorithm == "HC" else ""}_{dimension}_{function.__name__}'
+    results_file_name = f'{algorithm}{"_" + mode if algorithm == "HC" else ""}_{dimension}_{function.__name__}.txt'
     results_file = 'results/' + results_file_name
 
     minima = 0
