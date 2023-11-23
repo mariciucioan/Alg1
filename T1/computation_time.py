@@ -17,7 +17,7 @@ execution_times = []
 
 # Function to perform the optimization and measure execution time
 def optimize_dimension(test_dimension):
-    HC = HillClimbing(test_dimension, interval, mode, function, n=iterations, precision=precision)
+    HC = HillClimbing(test_dimension, get_interval_for_function(schwefel), "best", schwefel, n=iterations, precision=precision)
     return timeit.timeit(HC.solve, number=1)
 
 
